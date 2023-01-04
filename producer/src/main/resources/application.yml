@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+pulsar:
+  service-url: "pulsar://localhost:6650"
+  topic-name: "aston-demo-topic"
